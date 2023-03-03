@@ -1,0 +1,7 @@
+name: CommandManager
+version: '${project.version}'
+main: org.acsn1.commandmanager.CommandManager
+api-version: 1.19
+authors: [ acsn1 ]
+commands:
+  about:
